@@ -1,0 +1,9 @@
+{
+  "name": "demo-scaffold-demo",
+  "version": "0.1.0",
+  "bin": "cli.js",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.2.0"
+  }
+}
